@@ -27,7 +27,8 @@ A simple digital clock with alarm functionality built using HTML, CSS, and JavaS
 - `index.html` — Main HTML file.
 - `style.css` — Styles for the clock and controls.
 - `script.js` — JavaScript for clock and alarm logic.
-
+## Background image
+<img src="
 ## Screenshot
 
 <img src="digital clock/Screenshot 2025-05-31 111038.png" height="200em"> <img src="digital clock/Screenshot 2025-05-31 111053.png" height="200em" >
