@@ -30,7 +30,7 @@ A simple digital clock with alarm functionality built using HTML, CSS, and JavaS
 
 ## Screenshot
 
-<img src="digital clock/Screenshot 2025-05-31 111038.png" height="200em"> <img src="digital clock/Screenshot 2025-05-31 111053.png" height="200em" >
+<img src="digital clock/Screenshot 2025-05-31 111038.png" height="200em" width="200em"> <img src="digital clock/Screenshot 2025-05-31 111053.png" height="200em" >
 ## After the  clear alarm
 <img src="digital clock/Screenshot 2025-05-31 111124.png" height="200em">
 
